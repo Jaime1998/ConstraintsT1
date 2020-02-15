@@ -1,0 +1,4 @@
+Personas=["jose", "julian", "diana", "juan", "david", "claudia", "edgar", "mario"];
+Seguida=[|5,8|];
+Separada=[|3, 7|];
+Distancia=[|6,5,2|];

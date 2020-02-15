@@ -1,0 +1,9 @@
+% Archivo de datos
+Transformadores={Transformador1, Transformador2};
+Precios=[120, 80];
+
+Recursos={Material, Horas};
+Capacidad=[6, 28];
+Costo=[|2, 7| 1, 8|];
+
+

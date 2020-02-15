@@ -1,0 +1,11 @@
+% Archivo de datos
+
+Ingredientes={Butano, Catalico, Nafta};
+Precios=[0.58, 1.55, 0.85];
+
+Caracteristicas={Octano, Vapor, Volatilidad};
+
+CarIngredientes=[|120,60,105|100,2.5,3|74,4,12|];
+
+RequisitosGasolina=[|1, 89| -1, 11| 1, 17|];
+
